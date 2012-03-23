@@ -1,0 +1,5 @@
+private_setting.py
+s3config.yml
+*.swp
+*.pyc
+
